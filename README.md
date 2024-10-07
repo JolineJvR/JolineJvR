@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Joline Janse van Rensburg
+- 👀 I’m interested in learning what I can
+- 🌱 I’m currently learning django and HTML
+- 📫 How to reach me:
+-    email: jvrenjoline357@gmail.com
+-    discord: @jolinejvr
+-    linkedin: Joline Janse van Rensburg
+-    Instagram: @jolinejvrensburg_lienkie
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: 
