@@ -7,4 +7,3 @@
 -    linkedin: Joline Janse van Rensburg
 -    Instagram: @jolinejvrensburg_lienkie
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
